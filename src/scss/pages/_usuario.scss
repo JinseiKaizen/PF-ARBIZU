@@ -1,0 +1,101 @@
+
+.pages_usuario {
+    width: 80%;
+    height: 100%;
+    margin: 20px;
+    display: inline;
+
+  }
+
+.registrarse {
+    font-family: sans-serif;
+    letter-spacing: 0.01em;
+    line-height: 1.6;
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #fff;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    
+}
+  
+.form_usuario {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    color: #fff;
+    overflow: auto;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    fieldset {
+      padding: 30px;
+      .pages_usuario_titulo {
+        font-size: 20px;
+        font-style: italic;
+        text-align: center;
+        font-weight: bold;
+      }
+      
+    .pages_usuario_nombre{
+        padding: 5px;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+      }
+      
+    .pages_usuario_apellido{
+        padding: 5px;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+      }
+      
+    .pages_usuario_email{
+        padding: 5px;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+      }
+      
+    .pages_usuario_estado_civil{
+        padding: 5px;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+      }
+      
+    .pages_usuario_tipo_diseño{
+        padding: 5px;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+      }
+      
+    .pages_usuario_novedades{
+        padding: 5px;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+      }
+      
+    .pages_usuario_coment{
+        padding: 5px;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+      }
+      
+    .pages_usuario_botton{
+        padding: 2px;
+        color:white;
+        border: none;
+        border-radius: 5px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    }
+  }
+
